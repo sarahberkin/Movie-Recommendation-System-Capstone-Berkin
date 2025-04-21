@@ -1,0 +1,4 @@
+Model,Key Features Used,Parameters/Hyperparameters,RMSE
+SVD (Collaborative Filtering),"UserId, MovieId, Rating (implicit matrix)","default_n_factors=100, default_epochs=20, lr_all=0.005",0.8869
+KNN Regressor,"Gender, Age Group, Occupation, Genres, Release Year",n_neighbors=10,1.0165
+Random Forest Regressor,"Gender, Age Group, Occupation, Genres, Release Year","n_estimators=100, random_state=42",0.9813
