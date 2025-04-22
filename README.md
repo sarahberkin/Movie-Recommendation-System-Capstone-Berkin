@@ -5,7 +5,7 @@
 Streaming users spend over **110+ hours per year** scrolling to find content, leading to frustration and high subscription churn.  
 This project builds a **Movie Recommendation System** to address that problem by **reducing scroll time and improving user satisfaction**.
 
-Using the **MovieLens 1M dataset**, I developed, compared, and evaluated multiple recommendation models, focusing on both technical performance and real-world business impact.
+Using the **[MovieLens 1M dataset](https://grouplens.org/datasets/movielens/1m/)**, I developed, compared, and evaluated multiple recommendation models, focusing on both technical performance and real-world business impact.
 
 **[Project Code Here](https://github.com/sarahberkin/Movie-Recommendation-System-Capstone-Berkin/blob/main/Final_Movie_Recommender_Capstone.ipynb)**
 
