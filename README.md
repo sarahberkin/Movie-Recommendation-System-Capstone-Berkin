@@ -71,6 +71,8 @@ Behavior simulations showed that the SVD model could predict **10 out of 10 high
 
 ## Ackowledgements
 
+- [UserTesting](https://www.usertesting.com/) insights and data source for Enterprises
+- [Streaming Media article](https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=167376) on baseline problem with scrolling frustration and streaming platform customer churn
 - MovieLens 1M Dataset — [Grouplens Research](https://grouplens.org/datasets/movielens/1m/)
 - Surprise Python Library for Recommender Systems
 - Scikit-learn Machine Learning Framework
