@@ -53,17 +53,17 @@ Behavior simulations showed that the SVD model could predict **10 out of 10 high
 
 ## Business Value
 
-- Reduce user scroll time
-- Increase user satisfaction
-- Decrease subscription churn risk
-- Enhance platform engagement and loyalty
+- Reduce Subscription Churn by Improving Content Discovery
+- Increase User Engagement with Personalized Watchlists and Push Notifications
+- Targeted Upsell Opportunities Based on User Preferences
 
 ---
 
 ## Future Improvements
 
+- Quantify **Scroll Time Reduction** (Concrete scroll time tracking)
+- Build **hybrid models** (collaborative + content-based) 
 - Incorporate **implicit feedback** (e.g., watch time, partial views)
-- Build **hybrid models** (collaborative + content-based)
 - Add more **user demographic** features if available
 - Deploy **A/B testing** to measure real-world impact
 
